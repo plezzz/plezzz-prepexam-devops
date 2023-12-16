@@ -22,3 +22,5 @@ jobs:
       run: npm install
     - name: Run unit test for the application
       run: npm run test:unit
+    - name: Display SofUni username
+      run: echo "plezzz"
